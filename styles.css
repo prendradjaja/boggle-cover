@@ -1,0 +1,13 @@
+table#grid td {
+  width: 30px;
+  height: 30px;
+  background: #ccc;
+  text-align: center;
+  font-size: 24px;
+  font-family: monospace;
+}
+
+input#my-input {
+  margin: 2px;
+  width: 134px;
+}
